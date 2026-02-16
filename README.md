@@ -45,54 +45,7 @@ Academic research and ML demonstrations
 All data used are synthetic and intended for research, teaching, and model prototyping only.
 
 👤 Author
+
 Ebingiye Nelvin Agbozu
 
-yaml
-Copy code
-
----
-
-## 📁 Recommended Project Structure
-
-Rainfall-Runoff-Niger-Delta-ML/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│ ├── raw/
-│ │ └── niger_delta_rainfall_runoff_dataset.xlsx
-│ └── processed/
-│
-├── src/
-│ ├── rainfall_runoff_niger_delta_ml.py
-│ ├── gis_runoff_mapping.py
-│
-├── outputs/
-│ ├── figures/
-│ │ ├── runoff_timeseries.png
-│ │ └── feature_importance.png
-│ │
-│ └── gis/
-│ ├── niger_delta_runoff_map.tif
-│ └── niger_delta_flood_zones.shp
-│
-├── notebooks/
-│ └── exploratory_analysis.ipynb
-│
-└── docs/
-└── methodology.md
-
-yaml
-Copy code
-
----
-
-## 🧾 `requirements.txt` (optional)
-```txt
-numpy
-pandas
-matplotlib
-scikit-learn
-rasterio
-fiona
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
